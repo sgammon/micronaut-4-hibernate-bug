@@ -1,0 +1,9 @@
+micronaut.application.name: hibernate-reproducer
+datasources.default.db-type: mysql
+datasources.default.dialect: MYSQL
+datasources.default.driver-class-name: com.mysql.cj.jdbc.Driver
+jpa.default.properties.hibernate.hbm2ddl.auto: update
+jpa.default.compile-time-hibernate-proxies: true
+jpa.default.entity-scan.enabled: true
+jpa.default.entity-scan.packages: com.example.model
+netty.default.allocator.max-order: 3
