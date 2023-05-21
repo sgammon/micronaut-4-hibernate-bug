@@ -67,7 +67,7 @@ dependencies {
 
 
 application {
-    mainClass.set("com.example.ApplicationKt")
+    mainClass.set("com.example.Application")
 }
 
 java {
