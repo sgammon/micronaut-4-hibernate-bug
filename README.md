@@ -8,7 +8,7 @@ Hibernate.
 
 Micronaut is used at `4.0.0-M3` for plugin versions, `4.0.0-M2` as the main `io.micronaut.platform:micronaut-platform`
 version, and `4.0.0-M4` for the latest libraries. You can see these overrides in the [Gradle build](./build.gradle.kts).
-These versions are overridden because:
+The explanations for these overrides are shown below.
 
 ## Error stacktrace and diagnosis
 
